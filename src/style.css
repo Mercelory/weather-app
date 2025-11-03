@@ -1,5 +1,9 @@
 @import "tailwindcss";
 
-*{
+* {
     font-family: "Inria Sans";
+}
+
+body{
+    background-color: black;
 }
